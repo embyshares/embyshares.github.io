@@ -11,18 +11,17 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Astralis
 - Products: Emby Shares, Emby Appboxes, Plex Appboxes
-- Discord - [https://discord.gg/SFb9gAUrfE](https://discord.gg/SFb9gAUrfE)
+- Discord - [https://discord.gg/QUDaUuuv2N](https://discord.gg/QUDaUuuv2N)
 - Content - 74K M, 21K TV Shows / 4K HDR & 4K DV / Anime, Kids TV, Audiobooks & eBooks
 - Server location - EU & US
 - CDN - Yes
 - Prices - 10$/month, multiple plans
 - Payment type - Paypal, Crypto
 
-### Project Valhalla
-- Products: Emby Shares, Plex Appboxes
-- Website - [https://projectvalhalla.eu/](https://projectvalhalla.eu/)
-- Discord - No longer valid as of 01/2024
-- Content - 56K M, 8.5K TV Shows / Anime, Kids
+### Apache
+- Products: Emby Shares, Emby Appboxes
+- Discord - [https://discord.gg/SDAyHrGSuv](https://discord.gg/SDAyHrGSuv)
+- Content - 25K+ M, 7K+ TV Shows / 4K HDR / Anime, Kids TV & Audiobooks
 - Server location - EU & US
 - CDN - Yes
 - Prices - 7€/month, multiple plans available
