@@ -10,22 +10,22 @@ If you are a provider and would like to be added/removed from the list please su
 This website is managed by an independent person who is not affiliated with any of the providers mentioned below.
 
 ### Astralis
-- Products: Emby Shares, Emby Appboxes, Plex Appboxes
+- Products: Emby Shares, Emby Appboxes
 - Discord - [https://discord.gg/QUDaUuuv2N](https://discord.gg/QUDaUuuv2N)
 - Content - 74K M, 21K TV Shows / 4K HDR & 4K DV / Anime, Kids TV, Audiobooks & eBooks
 - Server location - EU & US
 - CDN - Yes
-- Prices - 10$/month, multiple plans
+- Prices - 15$/month, multiple plans
 - Payment type - Paypal, Crypto
 
-### Apache
-- Products: Emby Shares, Emby Appboxes
+### Arcadia
+- Products: Emby Shares
 - Discord - [https://discord.gg/SDAyHrGSuv](https://discord.gg/SDAyHrGSuv)
 - Content - 25K+ M, 7K+ TV Shows / 4K HDR / Anime, Kids TV & Audiobooks
 - Server location - EU & US
 - CDN - Yes
 - Prices - 7€/month, multiple plans available
-- Payment type - PayPal 
+- Payment type - PayPal, Crypto 
 
 ### C-MEDIA
 - Products: Plex & Emby shares
