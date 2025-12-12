@@ -18,7 +18,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Prices - 15$/month, multiple plans
 - Payment type - Paypal, Crypto, Card
 
-### Arcadia
+### IvyBee
 - Products: Emby Shares, Emby Appboxes
 - Website - [https://ivybee.io](https://ivybee.io)
 - Discord - [https://discord.gg/BRKpWyGnM4](https://discord.gg/BRKpWyGnM4)
