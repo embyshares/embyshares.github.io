@@ -11,21 +11,22 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Astralis
 - Products: Emby Shares, Emby Appboxes
-- Discord - [https://discord.gg/QUDaUuuv2N](https://discord.gg/QUDaUuuv2N)
-- Content - 74K M, 21K TV Shows / 4K HDR & 4K DV / Anime, Kids TV, Audiobooks & eBooks
+- Discord - [https://discord.gg/SDAyHrGSuv](https://discord.gg/SDAyHrGSuv)
+- Content - 70K M, 21K TV Shows / 4K HDR & 4K DV / Anime, Kids TV, Audiobooks & eBooks
 - Server location - EU & US
 - CDN - Yes
 - Prices - 15$/month, multiple plans
-- Payment type - Paypal, Crypto
+- Payment type - Paypal, Crypto, Card
 
 ### Arcadia
-- Products: Emby Shares
-- Discord - [https://discord.gg/SDAyHrGSuv](https://discord.gg/SDAyHrGSuv)
-- Content - 25K+ M, 7K+ TV Shows / 4K HDR / Anime, Kids TV & Audiobooks
+- Products: Emby Shares, Emby Appboxes
+- Website - [https://ivybee.io](https://ivybee.io)
+- Discord - [https://discord.gg/BRKpWyGnM4](https://discord.gg/BRKpWyGnM4)
+- Content - 27K+ M, 7K+ TV Shows / 4K HDR & 4K DV / Anime, Kids TV & Audiobooks
 - Server location - EU & US
 - CDN - Yes
-- Prices - 7€/month, multiple plans available
-- Payment type - PayPal, Crypto 
+- Prices - 10$/month, multiple plans
+- Payment type - PayPal, Crypto, Card
 
 ### C-MEDIA
 - Products: Plex & Emby shares
